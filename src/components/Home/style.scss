@@ -1,0 +1,83 @@
+.wrapper {
+  background-color: red;
+}
+.content-wrapper {
+  font-family: Roboto;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;  
+  color: white;    
+}
+
+.left-text {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px !important;  
+  padding: 30px;
+}
+
+.Button {
+  width: 200px;  
+}
+
+.right-image { 
+  width: 500px;
+}
+
+.switch {
+   height: 300px;    
+}
+
+.switch-logo {
+  height: 150px;
+}
+
+.carousel-wrapper {
+  flex-direction: column !important;
+}
+
+.carousel-indicators button{
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50% !important;  
+}
+
+.carousel-inner {
+  margin-bottom: 50px !important;
+  bottom: 50px;
+}
+
+/*-- MEDIA QUERY --*/
+
+@media only screen and (max-width: 1024px) {
+  .content-wrapper {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .left-text {
+    order: 2;
+  } 
+}
+
+@media only screen and (max-width: 500px) {
+  .right-image { 
+    width: 300px !important;
+  }
+  
+  .switch {
+     height: 180px !important;    
+  }
+
+  .switch-logo {
+    height: 100px;
+  }
+
+  h1 {
+    font-size: 40px !important;
+    padding: 10px;
+  }
+}
