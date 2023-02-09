@@ -1,4 +1,4 @@
-# Countdown timer
+# Nontendo Swotch - Landing Page
 
 - Este é um projeto pessoal desenvolvido utilizando ReactJS com base no layout do videogame Nintendo Switch com intuito de aplicar conhecimentos sobre utilização de componentes ReactJS e da biblioteca [React-Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/), através da criação e estilização de um [React-Bootstrap-Carousel](https://react-bootstrap.github.io/components/carousel/), além de conhecimentos sobre animações CSS.
 
