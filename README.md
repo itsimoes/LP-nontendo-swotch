@@ -11,8 +11,8 @@
 
 <b>Versão desktop </b>
 
-<img src="https://user-images.githubusercontent.com/7232098/209560206-babc2464-6684-4292-904b-dcd2de5238f4.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/7232098/217836725-c20205c5-ffa5-49cd-b5a3-8b031b1f2393.png" width="50%" />
 
 <b>Versão mobile </b>
 
-<img src="https://user-images.githubusercontent.com/7232098/209560230-3ecbce7e-7b1c-4521-91e2-5e603185d05e.png" width="20%" />
+<img src="https://user-images.githubusercontent.com/7232098/217836747-c493f13f-0c0a-4326-afc6-bf266e85b203.png" width="20%" />
