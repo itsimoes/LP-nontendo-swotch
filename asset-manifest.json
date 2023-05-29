@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LP-nontendo-swotch/static/css/main.4ddbb053.css",
+    "main.js": "/LP-nontendo-swotch/static/js/main.db4fa225.js",
+    "static/js/787.1f0cced8.chunk.js": "/LP-nontendo-swotch/static/js/787.1f0cced8.chunk.js",
+    "index.html": "/LP-nontendo-swotch/index.html",
+    "main.4ddbb053.css.map": "/LP-nontendo-swotch/static/css/main.4ddbb053.css.map",
+    "main.db4fa225.js.map": "/LP-nontendo-swotch/static/js/main.db4fa225.js.map",
+    "787.1f0cced8.chunk.js.map": "/LP-nontendo-swotch/static/js/787.1f0cced8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddbb053.css",
+    "static/js/main.db4fa225.js"
+  ]
+}
