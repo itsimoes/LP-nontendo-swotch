@@ -181,7 +181,7 @@ const Navbar = () => {
             </Typography>
           </Link>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
-            <MenuItem sx={{ my: 2, color: "white", display: "block" }}>
+            <MenuItem sx={{ my: 2, color: "white", display: "block"}}>
               <Typography sx={{ paddingRight: "10px", paddingLeft: "10px"}}>
                 <Link to="/" className="link">
                   Home
