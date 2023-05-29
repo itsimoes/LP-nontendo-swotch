@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/LP-nontendo-swotch/static/css/main.4ddbb053.css",
-    "main.js": "/LP-nontendo-swotch/static/js/main.db4fa225.js",
+    "main.css": "/LP-nontendo-swotch/static/css/main.b805e938.css",
+    "main.js": "/LP-nontendo-swotch/static/js/main.0a5f6bb0.js",
     "static/js/787.1f0cced8.chunk.js": "/LP-nontendo-swotch/static/js/787.1f0cced8.chunk.js",
+    "static/media/switch.png": "/LP-nontendo-swotch/static/media/switch.2bdfcb9d2c7baff8c9c3.png",
+    "static/media/switch-oled.png": "/LP-nontendo-swotch/static/media/switch-oled.912b65bf16b3b1c43714.png",
+    "static/media/switch-lite.png": "/LP-nontendo-swotch/static/media/switch-lite.fd06e5cba882b84bbffe.png",
+    "static/media/switch-logo.png": "/LP-nontendo-swotch/static/media/switch-logo.eef78599124cf0cfeb8f.png",
     "index.html": "/LP-nontendo-swotch/index.html",
-    "main.4ddbb053.css.map": "/LP-nontendo-swotch/static/css/main.4ddbb053.css.map",
-    "main.db4fa225.js.map": "/LP-nontendo-swotch/static/js/main.db4fa225.js.map",
+    "main.b805e938.css.map": "/LP-nontendo-swotch/static/css/main.b805e938.css.map",
+    "main.0a5f6bb0.js.map": "/LP-nontendo-swotch/static/js/main.0a5f6bb0.js.map",
     "787.1f0cced8.chunk.js.map": "/LP-nontendo-swotch/static/js/787.1f0cced8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ddbb053.css",
-    "static/js/main.db4fa225.js"
+    "static/css/main.b805e938.css",
+    "static/js/main.0a5f6bb0.js"
   ]
 }
